@@ -14,5 +14,5 @@ Edit the value of PORT
 Type the following command to start the demo server -  
 docker-compose up --build -d
 
-## Access MDM Enrollment Server
+## Access demo Server
 http://{hostname}:8080/
